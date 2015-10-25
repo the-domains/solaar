@@ -1,0 +1,23 @@
+name: solaar
+favicon: null
+layout_spectrum: 0.2335378360003233
+typography_spectrum: 0.7656092564575374
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6048835422843695
+  lightness: 0.8727918392978609
+  saturation: 0.8186397908721119
+  rhythmicContrast: 0.4868886561598629
+purpose: []
